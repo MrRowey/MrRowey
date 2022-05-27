@@ -1,9 +1,9 @@
 ### Hi thier, I'm Josh - Aka Rowey
 
-## I'm a Student & Volenteer at [Forged Alliance Forever](www.faforever.com)
-- I'm currently working on a Database /w web fronend which can be found [here](https://github.com/MrRowey/FAF-Tourney-Data-DB)
-- I'm currenly learing SQL,PHP & Docker
-- I'm looking to work and do more project to imporve my learing.
+## I'm a Student & Volunteer at [Forged Alliance Forever](www.faforever.com)
+- I'm currently working on a Database /w web frontend which can be found [here](https://github.com/MrRowey/FAF-Tourney-Data-DB)
+- I'm currently learning SQL, PHP & Docker
+- I'm looking to work and do more project to improve my learning.
 
 ### Uni Based Repos
 - [Web Development](https://github.com/MrRowey/GlazeSure)
@@ -15,7 +15,7 @@
 - [Website](https://github.com/MrRowey/FAFwebsite)
 - [Tournament-Data-Database](https://github.com/MrRowey/FAF-Tourney-Data-DB)
 - [Client](https://github.com/MrRowey/downlords-faf-client)
-- [UnitDatabase](https://github.com/MrRowey/UnitDB)
+- [Unit Database](https://github.com/MrRowey/UnitDB)
 - [Phantom-Balance-Mod](https://github.com/MrRowey/PhantomBalance)
 
 
