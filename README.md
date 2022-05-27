@@ -10,7 +10,10 @@
 - [Database Development](https://github.com/MrRowey/SNT-Antiques)
 - Game Development
 
-### Forged Alliance Forever Repos
+### Forged Alliance Forever (FAF)
+My Role at FAF is that im the Promotions Team lead than deals with communicating with other communitsy and dealing with promotials material for internal events.
+
+#### FAF Based Repos
 - [Game Code](https://github.com/MrRowey/Local-FA)
 - [Website](https://github.com/MrRowey/FAFwebsite)
 - [Tournament-Data-Database](https://github.com/MrRowey/FAF-Tourney-Data-DB)
