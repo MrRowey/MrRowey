@@ -6,8 +6,8 @@
 - I'm looking to work and do more project to improve my learning.
 
 ### Uni Based Repos
-- [Web Development](https://github.com/MrRowey/GlazeSure)
-- [Database Development](https://github.com/MrRowey/SNT-Antiques)
+- [Database Development](https://github.com/MrRowey/GlazeSure)
+- [Web Development](https://github.com/MrRowey/SNT-Antiques)
 - Game Development
 
 ### Forged Alliance Forever (FAF)
