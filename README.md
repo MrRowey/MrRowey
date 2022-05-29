@@ -1,6 +1,6 @@
 ### Hi thier, I'm Josh - Aka Rowey
 
-## I'm a Student & Volunteer at [Forged Alliance Forever](www.faforever.com)
+## I'm a Student & Volunteer at [Forged Alliance Forever](https://github.com/FAForever)
 - I'm currently working on a Database /w web frontend which can be found [here](https://github.com/MrRowey/FAF-Tourney-Data-DB)
 - I'm currently learning SQL, PHP & Docker
 - I'm looking to work and do more project to improve my learning.
