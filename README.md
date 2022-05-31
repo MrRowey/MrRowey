@@ -1,9 +1,9 @@
-### Hi thier, I'm Josh - Aka Rowey
+### Hi there, I'm Josh - Aka Rowey
 
 ## I'm a Student & Volunteer at [Forged Alliance Forever](https://github.com/FAForever)
 - I'm currently working on a Database /w web frontend which can be found [here](https://github.com/MrRowey/FAF-Tourney-Data-DB)
-- I'm currently learning SQL, PHP & Docker
-- I'm looking to work and do more project to improve my learning.
+- I'm currently learning SQL, PHP & Docker.
+- I'm looking to work and do more projects to improve my learning.
 
 ### Uni Based Repos
 - [Database Development](https://github.com/MrRowey/GlazeSure)
@@ -11,7 +11,7 @@
 - Game Development
 
 ### Forged Alliance Forever (FAF)
-My Role at FAF is that im the Promotions Team lead than deals with communicating with other communitsy and dealing with promotials material for internal events.
+My Role at FAF is that I'm the Promotions Team Lead, that deals with communicating with other communities as well as dealing with promotional material for internal events.
 
 #### FAF Based Repos
 - [Game Code](https://github.com/MrRowey/Local-FA)
