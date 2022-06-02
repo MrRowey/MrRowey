@@ -8,7 +8,7 @@
 ### Uni Based Repos
 - [Database Development](https://github.com/MrRowey/GlazeSure)
 - [Web Development](https://github.com/MrRowey/SNT-Antiques)
-- Game Development
+- [Game Development](https://github.com/MrRowey/Game-Development)
 
 ### Forged Alliance Forever (FAF)
 My Role at FAF is that I'm the Promotions Team Lead, that deals with communicating with other communities as well as dealing with promotional material for internal events.
