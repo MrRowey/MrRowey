@@ -22,7 +22,7 @@
 ---
 
 ### :man_technologist: About Me:
-- :telescope: I'm a Undergraduate Computer Science Student & I Volunteer as a Open Source Project at [Forged Alliance Forever](https://github.com/FAForever)
+- :telescope: I'm a Undergraduate Computer Science Student & Volunteer at an Open Source Project [Forged Alliance Forever](https://github.com/FAForever)
 - :zap: in my free time im Learning Web Technologies (HTML, CSS, JS, SQL, PHP & Docker)
 - :seedling: I'm currently working on a Database /w web frontend which can be found [here](https://github.com/MrRowey/FAF-Tourney-Data-DB)
 
