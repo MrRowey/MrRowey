@@ -3,7 +3,7 @@
 </div>
 <div id="badges" align="center">
     <a href="https://www.twitch.tv/mr_rowey">
-      <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitch Badge"/>
+      <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
     </a>
     <a href="https://www.youtube.com/channel/UCXIoQ_KILaTNW9mb7toC6Mg">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
