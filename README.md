@@ -69,3 +69,6 @@
 - [Client](https://github.com/MrRowey/downlords-faf-client)
 - [Unit Database](https://github.com/MrRowey/UnitDB)
 - [Phantom-Balance-Mod](https://github.com/MrRowey/PhantomBalance)
+
+### 🧪 Personal :
+- [BrickGame](https://github.com/MrRowey/BricksGame)
