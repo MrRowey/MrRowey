@@ -24,3 +24,4 @@ My Role at FAF is that I'm the Promotions Team Lead, that deals with communicati
 
 ----
 <img align="left" alt="Rowey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrrowey&show_icons=true&hide_border=true">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRowey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
