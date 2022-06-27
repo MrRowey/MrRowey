@@ -69,6 +69,7 @@
 - [Client](https://github.com/MrRowey/downlords-faf-client)
 - [Unit Database](https://github.com/MrRowey/UnitDB)
 - [Phantom-Balance-Mod](https://github.com/MrRowey/PhantomBalance)
+- [Campagin Mission: Battle for the Fjords ](https://github.com/MrRowey/battle-for-the-fjords)
 
 #### 🧪 Personal :
 - [BrickGame](https://github.com/MrRowey/BricksGame)
