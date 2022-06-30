@@ -60,7 +60,6 @@
 #### 🏫 Uni :
 - [Database Development](https://github.com/MrRowey/GlazeSure)
 - [Web Development](https://github.com/MrRowey/SNT-Antiques)
-- [Game Development](https://github.com/MrRowey/Game-Development)
 
 #### 🎮 FAF :
 - [Game Code](https://github.com/MrRowey/Local-FA)
