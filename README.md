@@ -60,7 +60,8 @@
 #### 🏫 Uni :
 - [Database Development](https://github.com/MrRowey/GlazeSure)
 - [Web Development](https://github.com/MrRowey/SNT-Antiques)
-- [Data Structures & Algorithms](https://github.com/MrRowey/Unit-19-Data-Structures-Algorithms)
+- [Data Structures & Algorithms](https://github.com/MrRowey/Uni-Data-Structures-Algorithms)
+- [Advanced Programming](https://github.com/MrRowey/Uni-Advanced-Programming)
 
 #### 🎮 FAF :
 - [Game Code](https://github.com/MrRowey/Local-FA)
