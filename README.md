@@ -57,19 +57,23 @@
 ### 🖥️ My Repositorys :
 
 #### 🏫 Uni :
+##### Year 1
 - [Database Development](https://github.com/MrRowey/GlazeSure)
 - [Web Development](https://github.com/MrRowey/SNT-Antiques)
+##### Year 2
 - [Data Structures & Algorithms](https://github.com/MrRowey/Uni-Data-Structures-Algorithms)
 - [Advanced Programming](https://github.com/MrRowey/Uni-Advanced-Programming)
+- [Business Intelligence](https://github.com/MrRowey/Uni-Business-Intelligence)
+- [Research Project](https://github.com/MrRowey/Uni-Research-Project)
+- [Game Development](https://github.com/MrRowey/Uni-Games-Development)
+- [Artificial Intelligence](https://github.com/MrRowey/Uni-Artificial-Intelligence)
+- [Robotics]()
 
 #### 🎮 FAF :
 - [Game Code](https://github.com/MrRowey/Local-FA)
 - [Website](https://github.com/FAForever/website)
-- [Rowey's FAF Development site](https://github.com/MrRowey/Roweys-FAF-Development-site)
-- [Client](https://github.com/MrRowey/downlords-faf-client)
+- [Rowey's Dev Site](https://github.com/MrRowey/Roweys-FAF-Development-site)
+- [FAF Client](https://github.com/MrRowey/downlords-faf-client)
 - [Unit Database](https://github.com/MrRowey/UnitDB)
-- [Phantom-Balance-Mod](https://github.com/MrRowey/PhantomBalance)
+- [Phantom Balance Mod](https://github.com/MrRowey/PhantomBalance)
 - [COOP Mission: Battle for the Fjords](https://github.com/MrRowey/battle-for-the-fjords)
-
-#### 🧪 Personal :
-- [BrickGame](https://github.com/MrRowey/BricksGame)
