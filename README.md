@@ -62,7 +62,6 @@
 - [Data Structures & Algorithms](https://github.com/MrRowey/Uni-Data-Structures-Algorithms)
 - [Application Development](https://github.com/MrRowey/Uni-Application-Development)
 - [Business Intelligence](https://github.com/MrRowey/Uni-Business-Intelligence)
-- [Research Project](https://github.com/MrRowey/Uni-Research-Project)
 - [Game Development](https://github.com/MrRowey/Uni-Games-Development)
 - [Artificial Intelligence](https://github.com/MrRowey/Uni-Artificial-Intelligence)
 - [Robotics]()
