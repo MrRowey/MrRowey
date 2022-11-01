@@ -21,15 +21,14 @@
 
 ---
 
-### :man_technologist: About Me:
+### 👨‍💻 About Me:
 - 🔭 I'm a HND Computer Science Student
 - 🕹️ Volunteer at an Open Source Project [Forged Alliance Forever](https://github.com/FAForever)
-- ⚡ in my free time im Learning Web & Server Technologies (HTML, CSS, JS, SQL, PHP & Docker)
-- 🌱 I'm currently working on a Database with a Web frontend Project which can be found [here](https://github.com/MrRowey/FAF-Tourney-Data-DB)
+- ⚡ Learing the follwoing lanuages HTML, CSS, SQL, PHP, C#
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -42,7 +41,7 @@
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 <div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrrowey&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
