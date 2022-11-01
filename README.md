@@ -22,9 +22,10 @@
 ---
 
 ### :man_technologist: About Me:
-- :telescope: I'm a HND Computer Science Student & Volunteer at an Open Source Project [Forged Alliance Forever](https://github.com/FAForever)
-- :zap: in my free time im Learning Web & Server Technologies (HTML, CSS, JS, SQL, PHP & Docker)
-- :seedling: I'm currently working on a Database with a Web frontend Project which can be found [here](https://github.com/MrRowey/FAF-Tourney-Data-DB)
+- 🔭 I'm a HND Computer Science Student
+- 🕹️ Volunteer at an Open Source Project [Forged Alliance Forever](https://github.com/FAForever)
+- ⚡ in my free time im Learning Web & Server Technologies (HTML, CSS, JS, SQL, PHP & Docker)
+- 🌱 I'm currently working on a Database with a Web frontend Project which can be found [here](https://github.com/MrRowey/FAF-Tourney-Data-DB)
 
 ---
 
