@@ -24,11 +24,10 @@
 ### 👨‍💻 About Me:
 - 🔭 I'm a HND Computer Science Student
 - 🕹️ Volunteer at an Open Source Project [Forged Alliance Forever](https://github.com/FAForever)
-- ⚡ Learing the follwoing lanuages HTML, CSS, SQL, PHP, C#
 
 ---
 
-### 🛠️ Languages and Tools That im Learning :
+### 🛠️ What Languages and Tools im Learning :
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
