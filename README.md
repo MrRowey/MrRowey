@@ -67,10 +67,7 @@
 - [Robotics]()
 
 #### 🎮 FAF :
-- [Game Code](https://github.com/MrRowey/Local-FA)
-- [Website](https://github.com/FAForever/website)
+- [Game Code](https://github.com/MrRowey/fa)
 - [Rowey's Dev Site](https://github.com/MrRowey/Roweys-FAF-Development-site)
-- [FAF Client](https://github.com/MrRowey/downlords-faf-client)
-- [Unit Database](https://github.com/MrRowey/UnitDB)
 - [Phantom Balance Mod](https://github.com/MrRowey/PhantomBalance)
 - [COOP Mission: Battle for the Fjords](https://github.com/MrRowey/battle-for-the-fjords)
