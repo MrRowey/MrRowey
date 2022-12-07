@@ -40,18 +40,6 @@
 </div>
 
 ---
-
-### 🔥 My Stats :
-<div align="center">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrrowey&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRowey&theme=cobalt&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-    
----
-
 ### 🖥️ My Repositorys :
 
 #### 🏫 Uni Year 1:
@@ -71,3 +59,14 @@
 - [Rowey's Dev Site](https://github.com/MrRowey/Roweys-FAF-Development-site)
 - [Phantom Balance Mod](https://github.com/MrRowey/PhantomBalance)
 - [COOP Mission: Battle for the Fjords](https://github.com/MrRowey/battle-for-the-fjords)
+
+---
+
+### 🔥 My Stats :
+<div align="center">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrrowey&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRowey&theme=cobalt&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
