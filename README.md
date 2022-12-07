@@ -59,11 +59,9 @@
 - [Web Development](https://github.com/MrRowey/SNT-Antiques)
 
 #### 🏫 Uni Year 2:
-##### Semester 1
 - [Unit 19: Data Structures & Algorithms](https://github.com/MrRowey/Unit-19-Data-Structures-Algorithms)
 - [Unit 30: Application Development](https://github.com/MrRowey/Unit-30-Application-Development)
 - [Unit 14: Business Intelligence](https://github.com/MrRowey/Unit-14-Business-Intelligence)
-##### Semester 2
 - [Unit 47: Game Development](https://github.com/MrRowey/Unit-47-Game-Development)
 - [Unit 27: Artificial Intelligence](https://github.com/MrRowey/Unit-27-Artificial-Intelligence)
 - [Unit 44: Robotics](https://github.com/MrRowey/Unit-44-Robotics)
