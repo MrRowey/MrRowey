@@ -36,7 +36,7 @@
 - [Unit 19: Data Structures & Algorithms](https://github.com/MrRowey/Unit-19-Data-Structures-Algorithms)
 - [Unit 30: Application Development](https://github.com/MrRowey/Unit-30-Application-Development)
 - [Unit 14: Business Intelligence](https://github.com/MrRowey/Unit-14-Business-Intelligence)
-- [Unit 47: Game Development](https://github.com/MrRowey/Unit-47-Game-Development)
+- [Unit 47: Game Development](https://github.com/MrRowey/Uni-Game-Development)
 - [Unit 27: Artificial Intelligence](https://github.com/MrRowey/Unit-27-Artificial-Intelligence)
 - [Unit 44: Robotics](https://github.com/MrRowey/Unit-44-Robotics)
 
