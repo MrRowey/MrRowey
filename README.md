@@ -28,17 +28,15 @@
 ---
 ### 🖥️ My Repositorys :
 
-#### 🏫 Uni Year 1:
-- [Database Development](https://github.com/MrRowey/GlazeSure)
-- [Web Development](https://github.com/MrRowey/SNT-Antiques)
-
-#### 🏫 Uni Year 2:
-- [Unit 19: Data Structures & Algorithms](https://github.com/MrRowey/Unit-19-Data-Structures-Algorithms)
-- [Unit 30: Application Development](https://github.com/MrRowey/Unit-30-Application-Development)
-- [Unit 14: Business Intelligence](https://github.com/MrRowey/Unit-14-Business-Intelligence)
-- [Unit 47: Game Development](https://github.com/MrRowey/Uni-Game-Development)
-- [Unit 27: Artificial Intelligence](https://github.com/MrRowey/Unit-27-Artificial-Intelligence)
-- [Unit 44: Robotics](https://github.com/MrRowey/Unit-44-Robotics)
+#### 🏫 Universty Projects:
+- [Database Development - Basic](https://github.com/MrRowey/GlazeSure)
+- [Web Development - Basic](https://github.com/MrRowey/SNT-Antiques)
+- [Data Structures & Algorithms - Code](https://github.com/MrRowey/Unit-19-Data-Structures-Algorithms)
+- [Application Development](https://github.com/MrRowey/Unit-30-Application-Development)
+- [Business Intelligence Tool](https://github.com/MrRowey/Unit-14-Business-Intelligence)
+- [Game Dev - Hyperdrive Rescue](https://github.com/MrRowey/Hyperdrive-Rescue)
+- [Artificial Intelligence - Code](https://github.com/MrRowey/Unit-27-Artificial-Intelligence)
+- [Robotics - Code](https://github.com/MrRowey/Unit-44-Robotics)
 
 #### 🎮 FAF :
 - [Game Code](https://github.com/MrRowey/fa)
@@ -57,6 +55,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua" **alt="Lua" width="40" height="40"/>    
 </div>
 
 ---
