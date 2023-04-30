@@ -26,7 +26,7 @@
 - 🕹️ Volunteer at an Open Source Project [Forged Alliance Forever](https://github.com/FAForever)
 
 ---
-### 🖥️ My Repositorys :
+### 🖥️ My Repositories :
 
 #### 🏫 Universty Projects:
 - [Database Development - Basic](https://github.com/MrRowey/GlazeSure)
