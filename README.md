@@ -34,7 +34,7 @@
 - [Data Structures & Algorithms - Code](https://github.com/MrRowey/Unit-19-Data-Structures-Algorithms)
 - [Application Development](https://github.com/MrRowey/Unit-30-Application-Development)
 - [Business Intelligence Tool](https://github.com/MrRowey/Unit-14-Business-Intelligence)
-- [Game Dev - Hyperdrive Rescue](https://github.com/MrRowey/Hyperdrive-Rescue)
+- [Game Dev - Hyperdrive Escape](https://github.com/MrRowey/Hyperdrive-Rescue)
 - [Artificial Intelligence - Code](https://github.com/MrRowey/Unit-27-Artificial-Intelligence)
 - [Robotics - Code](https://github.com/MrRowey/Unit-44-Robotics)
 
