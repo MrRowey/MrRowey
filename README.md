@@ -48,6 +48,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua" **alt="Lua" width="40" height="40"/>    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" **alt="Electron" width="40" height="40"/>
 </div>
 
 ---
