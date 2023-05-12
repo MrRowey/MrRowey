@@ -29,20 +29,12 @@
 ### 🖥️ My Repositories :
 
 #### 🏫 Universty Projects:
-- [Database Development - Basic](https://github.com/MrRowey/GlazeSure)
-- [Web Development - Basic](https://github.com/MrRowey/SNT-Antiques)
-- [Data Structures & Algorithms - Code](https://github.com/MrRowey/Unit-19-Data-Structures-Algorithms)
-- [Application Development](https://github.com/MrRowey/Unit-30-Application-Development)
-- [Business Intelligence Tool](https://github.com/MrRowey/Unit-14-Business-Intelligence)
 - [Game Dev - Hyperdrive Escape](https://github.com/MrRowey/Hyperdrive-Escape)
-- [Artificial Intelligence - Code](https://github.com/MrRowey/Unit-27-Artificial-Intelligence)
-- [Robotics - Code](https://github.com/MrRowey/Unit-44-Robotics)
 
 #### 🎮 FAF :
 - [Game Code](https://github.com/MrRowey/fa)
 - [Rowey's Dev Site](https://github.com/MrRowey/Roweys-FAF-Development-site)
 - [Phantom Balance Mod](https://github.com/MrRowey/PhantomBalance)
-- [COOP Mission: Battle for the Fjords](https://github.com/MrRowey/battle-for-the-fjords)
 
 ---
 ### 🛠️ What Languages and Tools im Learning :
