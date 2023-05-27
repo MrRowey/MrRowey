@@ -28,7 +28,7 @@
 ---
 ### 🖥️ My Repositories :
 
-#### 🏫 Universty Projects:
+#### Projects:
 - [Game Dev - Hyperdrive Escape](https://github.com/MrRowey/Hyperdrive-Escape)
 
 #### 🎮 FAF :
