@@ -28,9 +28,6 @@
 ---
 ### 🖥️ My Repositories :
 
-#### Projects:
-- [Game Dev - Hyperdrive Escape](https://github.com/MrRowey/Hyperdrive-Escape)
-
 #### 🎮 FAF :
 - [Game Code](https://github.com/MrRowey/fa)
 - [Rowey's Dev Site](https://github.com/MrRowey/Roweys-FAF-Development-site)
