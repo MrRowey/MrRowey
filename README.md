@@ -9,9 +9,6 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
 </div>
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/26tPjBzCXOx4sy520/giphy.gif" alt="starwars Gif" width="100">
-</div>
 <h1 align="center">
   Hi there 👋 I'm Josh - Aka Rowey
 </h1>
