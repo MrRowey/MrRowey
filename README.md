@@ -24,8 +24,6 @@
 ---
 ### 🖥️ My Repositories :
 
-#### 🎮 FAF :
-- [Game Code](https://github.com/MrRowey/fa)
 
 ---
 ### 🛠️ What Languages and Tools im Learning :
