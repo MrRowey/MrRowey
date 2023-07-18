@@ -20,15 +20,12 @@
 
 ### 👨‍💻 About Me:
 - 🔭 I'm a HND Computer Science Student
-- 🕹️ Volunteer at an Open Source Project [Forged Alliance Forever](https://github.com/FAForever)
 
 ---
 ### 🖥️ My Repositories :
 
 #### 🎮 FAF :
 - [Game Code](https://github.com/MrRowey/fa)
-- [Rowey's Dev Site](https://github.com/MrRowey/Roweys-FAF-Development-site)
-- [Phantom Balance Mod](https://github.com/MrRowey/PhantomBalance)
 
 ---
 ### 🛠️ What Languages and Tools im Learning :
