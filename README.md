@@ -19,14 +19,18 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🔭 I'm a HND Computer Science Student
-
+- 🔭 I'm a HND Computer Science Graduate
+- I've Worked Voluntarily on an open-source project [@FAFoever](https://github.com/FAForever)
+- Once I've completed my degree in Computer science I will be looking in my free time to develop a platform to teach children aged 5-11 the world of computing/ programming as thier is a lack of tools out there that are either expected to invest in or are just a few materials which require a base knowledge.
+- I will be looking to Specialised in my 3rd Year of Uni in Web Development both Front and Backend.
+  
 ---
 ### 🖥️ My Repositories :
-
+- [Portfolio](https://github.com/MrRowey/MrRowey.github.io) - This will be the home of my Static Portfolio Site using Github pages
+- [Patchnotes Site](https://github.com/MrRowey/patchnotesSite) - This is the Patchnotes site for [@FAForever](https://github.com/FAForever) as I've worked on it the past month and I'm now using this as a base template to test new technologies.
 
 ---
-### 🛠️ What Languages and Tools im Learning :
+### 🛠️ What Languages and Tools in Learning :
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -35,10 +39,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua" **alt="Lua" width="40" height="40"/>    
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" **alt="Electron" width="40" height="40"/>
 </div>
 
 ---
