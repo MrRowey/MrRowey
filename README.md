@@ -1,5 +1,5 @@
 <div id="badges" align="center">
-    <a href="https://www.twitch.tv/mr_rowey">
+    <a href="https://www.twitch.tv/mrrowey">
       <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
     </a>
     <a href="https://www.youtube.com/channel/UCXIoQ_KILaTNW9mb7toC6Mg">
