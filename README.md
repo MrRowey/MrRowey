@@ -20,14 +20,14 @@
 
 ### 👨‍💻 About Me:
 - 🔭 I'm a HND Computer Science Graduate
+- 🔭 I'm Completing my Degree at the University Of Derby in Computer Science, specialising in Web, Database, Network Management and Security.
 - I've Worked Voluntarily on an open-source project [@FAFoever](https://github.com/FAForever)
 - Once I've completed my degree in Computer science I will be looking in my free time to develop a platform to teach children aged 5-11 the world of computing/ programming as thier is a lack of tools out there that are either expected to invest in or are just a few materials which require a base knowledge.
-- I will be looking to Specialised in my 3rd Year of Uni in Web Development both Front and Backend.
   
 ---
 ### 🖥️ My Repositories :
 - [Portfolio](https://github.com/MrRowey/MrRowey.github.io) - This will be the home of my Static Portfolio Site using Github pages
-- [Patchnotes Site](https://github.com/MrRowey/patchnotesSite) - This is the Patchnotes site for [@FAForever](https://github.com/FAForever) as I've worked on it the past month and I'm now using this as a base template to test new technologies.
+- [Patchnotes Site](https://github.com/MrRowey/patchnotesSite) - This is the Patchnotes site for [@FAForever](https://github.com/FAForever) as I've worked on it for the past month and I'm now using this as a base template to test new technologies.
 
 ---
 ### 🛠️ What Languages and Tools in Learning :
@@ -35,6 +35,7 @@
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40"/>
