@@ -43,12 +43,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua" **alt="Lua" width="40" height="40"/>    
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
 </div>
-
----
-
-### 🔥 My Stats :
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRowey&theme=cobalt&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
