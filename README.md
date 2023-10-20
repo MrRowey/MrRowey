@@ -22,7 +22,6 @@
 - 🔭 I'm a HND Computer Science Graduate
 - 🔭 I'm Completing my Degree at the University Of Derby in Computer Science, specialising in Web, Database, Network Management and Security.
 - I've Worked Voluntarily on an open-source project [@FAFoever](https://github.com/FAForever)
-- Once I've completed my degree in Computer science I will be looking in my free time to develop a platform to teach children aged 5-11 the world of computing/ programming as thier is a lack of tools out there that are either expected to invest in or are just a few materials which require a base knowledge.
   
 ---
 ### 🖥️ My Repositories :
