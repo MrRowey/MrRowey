@@ -25,7 +25,6 @@
   
 ---
 ### 🖥️ My Repositories :
-- [Portfolio](https://github.com/MrRowey/MrRowey.github.io) - This will be the home of my Static Portfolio Site using Github pages
 - [Patchnotes Site](https://github.com/MrRowey/patchnotesSite) - This is the Patchnotes site for [@FAForever](https://github.com/FAForever) as I've worked on it for the past month and I'm now using this as a base template to test new technologies.
 
 ---
