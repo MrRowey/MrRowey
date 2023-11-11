@@ -21,7 +21,7 @@
 ### 👨‍💻 About Me:
 - 🔭 I'm a HND Computer Science Graduate
 - 🔭 I'm Completing my Degree at the University Of Derby in Computer Science, specialising in Web, Database, Network Management and Security.
-- I've Worked Voluntarily on an open-source project [@FAFoever](https://github.com/FAForever)
+- I've Worked Voluntarily on an open-source project [@FAForever](https://github.com/FAForever)
   
 ---
 ### 🖥️ My Repositories :
