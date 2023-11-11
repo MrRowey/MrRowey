@@ -26,6 +26,7 @@
 ---
 ### 🖥️ My Repositories :
 - [Patchnotes Site](https://github.com/MrRowey/patchnotesSite) - This is the Patchnotes site for [@FAForever](https://github.com/FAForever) as I've worked on it for the past month and I'm now using this as a base template to test new technologies.
+- [Website](https://github.com/MrRowey/website) - This is the website that is used over at [@FAForever](https://github.com/FAForever/website) im in the process of making it more of a hybrid approach using Jekyll and Github Pages to host the main static pages and then using React with our server implementation to run Specific Modules.
 
 ---
 ### 🛠️ What Languages and Tools in Learning :
