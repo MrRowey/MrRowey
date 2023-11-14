@@ -26,7 +26,7 @@
 ---
 ### 🖥️ My Repositories :
 - [Patchnotes Site](https://github.com/MrRowey/patchnotesSite) - This is the Patchnotes site for [@FAForever](https://github.com/FAForever) as I've worked on it for the past month and I'm now using this as a base template to test new technologies.
-- [Website](https://github.com/MrRowey/website) - This is the website that is used over at [@FAForever](https://github.com/FAForever/website) im in the process of making it more of a hybrid approach using Jekyll and Github Pages to host the main static pages and then using React with our server implementation to run Specific Modules.
+- [FAF-Website](https://github.com/MrRowey/FAF-Website-Core) - This is a Rewrite of the Current website that is used over at [@FAForever](https://github.com/FAForever/website). Im in the procese of Making the website more easy to work with going forward. The New Site will be a Hybrid Aproch using Github pages with the capabilitys of Jekyll to create the Core site as a static site and anything that needed the FAF API Accses will be running as a Module using the current wesite Repo to do this.
 
 ---
 ### 🛠️ What Languages and Tools in Learning :
