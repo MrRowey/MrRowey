@@ -26,8 +26,8 @@
 ---
 ### 🖥️ My Repositories :
 - [Patchnotes Site](https://github.com/MrRowey/patchnotesSite) - This is the Patchnotes site for [@FAForever](https://github.com/FAForever) as I've worked on it for the past month and I'm now using this as a base template to test new technologies.
-- [FAF-Website](https://github.com/MrRowey/FAF-Website-Core) - This is a Rewrite of the Current website that is used over at [@FAForever](https://github.com/FAForever/website). Im in the procese of Making the website more easy to work with going forward. The New Site will be a Hybrid Aproch using Github pages with the capabilitys of Jekyll to create the Core site as a static site and anything that needed the FAF API Accses will be running as a Module using the current wesite Repo to do this.
-
+- [FAF-Website](https://github.com/MrRowey/FAF-Website-Core) - This is a Rewrite of the Current website that is used over at [@FAForever](https://github.com/FAForever/website). Im in the process of Making the website easier to work with going forward. The New Site will be a Hybrid approach using Github pages with the capabilities of Jekyll to create the Core site as a static site and anything that needs the FAF API Access will be running as a Module using the current website Repo to do this. *Archived*
+- [FAF-Tournaments](https://github.com/MrRowey/FAF-Tournaments) - This will be a Site that will help aid Tournament Directors managing FAF Tournaments as well other other features like analytics from game data.
 ---
 ### 🛠️ What Languages and Tools in Learning :
 
