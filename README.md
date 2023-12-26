@@ -22,7 +22,7 @@
 - School ICT Technician for 3.5 Years at a local Primary School
 - 🔭 I'm a HND Computer Science Graduate from 
 - 🔭 I'm Completing my Degree at the University Of Derby in Computer Science, specialising in Web, Database, Network Management and Security.
-- I've Worked Voluntarily on an open-source project [@FAForever](https://github.com/FAForever)
+- Work on a open-source project [@FAForever](https://github.com/FAForever)
   
 ---
 ### 🖥️ My Repositories :
