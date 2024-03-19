@@ -19,16 +19,13 @@
 ---
 
 ### 👨‍💻 About Me:
-- School ICT Technician for 3.5 Years at a local Primary School
-- 🔭 I'm a HND Computer Science Graduate from 
-- 🔭 I'm Completing my Degree at the University Of Derby in Computer Science, specialising in Web, Database, Network Management and Security.
-- Work on a open-source project [@FAForever](https://github.com/FAForever)
+- School ICT Technician for 3.5 Years at a local Primary School.
+- Undergraduate at the University Of Derby in Computer Science, specialising in Web, Database, Network Management and Security.
+- Work on an open-source project [@FAForever .](https://github.com/FAForever)
   
 ---
 ### 🖥️ My Repositories :
-- [Patchnotes Site](https://github.com/MrRowey/patchnotesSite) - This is the Patchnotes site for [@FAForever](https://github.com/FAForever) as I've worked on it for the past month and I'm now using this as a base template to test new technologies.
-- [FAF-Website *Archived*](https://github.com/MrRowey/FAF-Website-Core) - This is a Rewrite of the Current website that is used over at [@FAForever](https://github.com/FAForever/website). Im in the process of Making the website easier to work with going forward. The New Site will be a Hybrid approach using Github pages with the capabilities of Jekyll to create the Core site as a static site and anything that needs the FAF API Access will be running as a Module using the current website Repo to do this
-- [FAF-Tourny-Site](https://github.com/MrRowey/FAF-Tourny-Site) - This aims to be a Site where all tournaments can go through.
+- [Patchnotes Site](https://github.com/FAForever/patchnotes) - This is the Patchnotes site for [@FAForever](https://github.com/FAForever) as I've worked on  making QoL improvement as well as keeping it up-to-date.
 
 ---
 ### 🛠️ What Languages and Tools in Learning :
@@ -39,8 +36,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua" **alt="Lua" width="40" height="40"/>    
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
 </div>
