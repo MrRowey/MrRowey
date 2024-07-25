@@ -18,11 +18,11 @@
 ### 👨‍💻 About Me:
 - School ICT Technician for 3.5 Years at a local Primary School.
 - Undergraduate at the University Of Derby in Computer Science, specialising in Web, Database, Network Management and Security.
-- Work on an open-source project [@FAForever .](https://github.com/FAForever)
+- Worked on an open-source project [@FAForever .](https://github.com/FAForever)
   
 ---
 ### 🖥️ My Repositories :
-- [Patchnotes Site](https://github.com/FAForever/patchnotes) - This is the Patchnotes site for [@FAForever](https://github.com/FAForever) as I've worked on  making QoL improvement as well as keeping it up-to-date.
+- [Patchnotes Site](https://github.com/FAForever/patchnotes) - This is the Patchnotes site for [@FAForever](https://github.com/FAForever) as I've worked on making QoL improvement as well as keeping it up-to-date.
 
 ---
 ### 🛠️ What Languages and Tools in Learning :
