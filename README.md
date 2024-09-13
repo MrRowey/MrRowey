@@ -5,14 +5,15 @@
 ---
 
 ### 👨‍💻 About Me:
-- School ICT Technician for 3.5 Years at a local Primary School.
-- Undergraduate at the University Of Derby in Computer Science, specialising in Web, Database, Network Management and Security.
-- Worked on an open-source project [@FAForever .](https://github.com/FAForever)
+- Primary School ICT Technician for 3.5 Years.
+- Graduate in BSc Computing and Information Technology [@UniversityofDerby.](https://www.derby.ac.uk)
+- Have worked on an open-source project called [@FAForever .](https://github.com/FAForever)
+- Now an ICT Cluster Technician for Primary Schools.
   
 ---
 ### 🖥️ My Repositories :
-- [Patchnotes Site](https://github.com/FAForever/patchnotes) - This is the Patchnotes site for [@FAForever](https://github.com/FAForever) as I've worked on making QoL improvement as well as keeping it up-to-date.
-- Created a [calculator](Https://github.com/MrRowey/UnitCaculator) for balance changes 
+- [Patchnotes Site](https://github.com/FAForever/patchnotes) - This was the Patchnote site for displaying Balance Patchnotes in an easy to read format for [@FAForever](https://github.com/FAForever). I used the site as a playground to learn and add Quality of Life improvements and Updated information.
+- Created a [calculator](Https://github.com/MrRowey/UnitCaculator) for working out balance change percentages/Ratios.
 ---
 ### 🛠️ What Languages and Tools in Learning :
 
