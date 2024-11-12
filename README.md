@@ -5,7 +5,7 @@
 ---
 
 ### 👨‍💻 About Me
-- **Primary School ICT Technician** with 3.5 years of experience.
+- **Primary School ICT Technician** with 4 years of experience.
 - **BSc in Computing and Information Technology** from [University of Derby](https://www.derby.ac.uk).
 - Contributor to the open-source project [FAForever](https://github.com/FAForever).
 - Currently working as an **ICT Cluster Technician** for primary schools.
