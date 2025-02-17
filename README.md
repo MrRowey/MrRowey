@@ -13,7 +13,10 @@
 ---
 
 ### 🖥️ My Repositories
-- **[Patchnotes Site](https://github.com/FAForever/patchnotes)**: A site designed for displaying balance patch notes in an easy-to-read format for [FAForever](https://github.com/FAForever). I used this project as a playground to implement quality-of-life improvements and update information.
+- [Patchnotes Site](https://github.com/MrRowey/FAF-Patchnotes-Site): A basic static website deployed on GitHub Pages, originally improved for better UI and reliability in displaying balance patch notes. The site was later discontinued in favour of a simpler version, as maintaining it became too time-consuming.
+  - The main branch contains the final version of the old static site before it was discontinued.
+  - The experimental branch is an ongoing project to transition the site to a Jekyll-based framework. This change retains the original styling while significantly simplifying the process of creating visually appealing patch notes.
+
 - **[Unit Calculator](https://github.com/MrRowey/UnitCalculator)**: A tool for calculating balance change percentages and ratios.
 
 ---
