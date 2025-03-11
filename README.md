@@ -3,7 +3,7 @@
 ---
 
 ## 👨‍💻 About Me
-I'm a **Primary School ICT Technician** with 4 years of experience, driven by a passion for making technology accessible and effective in education. I hold a **BSc in Computing and Information Technology** from the [University of Derby](https://www.derby.ac.uk/?form=MG0AV3) and am an active contributor to the open-source project [FAForever](https://github.com/FAForever?form=MG0AV3). Currently, I work as an **ICT Cluster Technician**, supporting multiple primary schools in optimizing their technology ecosystems and creating seamless tech solutions for staff and students.
+I'm a **Primary School ICT Technician** with 4 years of experience, dedicated to leveraging technology to enhance learning experiences and empower educators. I hold a **BSc in Computing and Information Technology** from the [University of Derby](https://www.derby.ac.uk/?form=MG0AV3) and contribute actively to the open-source project [FAForever](https://github.com/FAForever?form=MG0AV3). Currently, I serve as an **ICT Cluster Technician**, collaborating with multiple primary schools to optimize their technology environments and deliver innovative solutions.
 
 ---
 
@@ -11,22 +11,22 @@ I'm a **Primary School ICT Technician** with 4 years of experience, driven by a 
 
 ### [Patchnotes Site](https://github.com/MrRowey/FAF-Patchnotes-Site?form=MG0AV3)
 *A sleek and efficient tool for presenting game balance updates.*  
-- **Purpose**: Enhanced UI and reliability for showcasing balance patch notes.  
-- **Features**:  
-   - The final static version is available in the main branch.  
-   - Transitioning to a Jekyll-based framework for improved usability and visual consistency.  
-- **What I Gained**: A deeper understanding of static site generators and their role in simplifying web development.
+- **Purpose**: Designed to improve the UI and reliability of balance patch notes.  
+- **Key Features**:  
+   - Static version available in the main branch.  
+   - Transitioning to a Jekyll-based framework for better usability and consistency.  
+- **What I Learned**: Gained expertise in static site generators and streamlined web development.
 
 ### [Unit Calculator](https://github.com/MrRowey/UnitCalculator)
-*A precision tool for analyzing game balance changes.*  
+*A lightweight tool for analyzing game balance changes with precision.*  
 - **Highlights**:  
-   - Designed to calculate change percentages and ratios with accuracy.  
-   - Features a clean, intuitive interface for developers and players.  
+   - Calculates percentage changes and ratios with accuracy.  
+   - Features a user-friendly interface for developers and players.  
 
 ---
 
 ## 🌱 Tech I'm Learning
-I'm expanding my expertise in front-end and back-end technologies to build user-friendly and efficient solutions. Some of the tools and languages I’m working with include:
+I'm constantly evolving my skill set, focusing on both front-end and back-end development to create user-friendly, efficient solutions. My current areas of focus include:
 
 <div align="center"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; 
@@ -41,10 +41,11 @@ I'm expanding my expertise in front-end and back-end technologies to build user-
 ---
 
 ## 🎉 Fun Facts
-- When I’m not immersed in troubleshooting or coding, I’m embracing the joys of fatherhood as a proud dad and stepdad to two amazing boys.  
-- You’ll often find me gaming, exploring the great outdoors, or discovering new tools and techniques to fuel my passion for lifelong learning.
+- When I’m not busy troubleshooting or coding, I’m embracing the joys of fatherhood as a proud dad and stepdad to two amazing boys.  
+- In my free time, I love gaming, exploring the outdoors, and diving into new tools and technologies to fuel my passion for lifelong learning.  
 
 ---
 
 ## 📫 Let’s Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/josh-row-938394255/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/josh-row-938394255/)  
+- 🌐 Feel free to reach out—I’d love to chat about tech, education, or anything in between!
