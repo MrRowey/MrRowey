@@ -37,6 +37,15 @@ I am a **Primary School ICT Technician** with four years of experience, dedicate
 ### Intelligent DNS Management with Pi-hole
 - Leveraged Pi-hole for DNS management, efficiently assigning IPs and blocking unwanted traffic.
 
+### Custom TrueNAS Core Server
+- Set up a custom server running TrueNAS Core for efficient storage and management.
+
+### Plex Media Server Integration
+- Configured a Plex Media Server on the TrueNAS Core setup for seamless media streaming.
+
+### Windows File Server Deployment
+- Integrated a Windows File Server within the TrueNAS system for secure and organized file sharing.
+
 ---
 
 ## 🌱 Tech I'm Learning
