@@ -3,43 +3,44 @@
 ---
 
 ## 👨‍💻 About Me
-I'm a **Primary School ICT Technician** with 4 years of experience, dedicated to leveraging technology to enhance learning experiences and empower educators. I hold a **BSc in Computing and Information Technology** from the [University of Derby](https://www.derby.ac.uk/?form=MG0AV3) and actively contribute to the open-source project [FAForever](https://github.com/FAForever?form=MG0AV3). Currently, I work as an **ICT Cluster Technician**, collaborating with multiple primary schools to optimize their technology ecosystems and deliver innovative tech solutions.
+I am a **Primary School ICT Technician** with four years of experience, dedicated to leveraging technology to enrich learning environments and empower educators. Holding a **BSc in Computing and Information Technology** from the [University of Derby](https://www.derby.ac.uk/?form=MG0AV3), I actively contribute to the open-source project [FAForever](https://github.com/FAForever?form=MG0AV3), collaborating with a global community to enhance gaming experiences. Currently, I serve as an **ICT Cluster Technician**, partnering with multiple primary schools to optimize their technology ecosystems and deliver innovative solutions tailored to educational needs.
 
 ---
 
-## 🖥️ GIThub Projects
+## 🖥️ GitHub Projects
 
 ### [Patchnotes Site](https://github.com/MrRowey/FAF-Patchnotes-Site?form=MG0AV3)
-*A sleek, efficient tool for presenting game balance updates.*  
-- **Purpose**: Enhance the UI and reliability of balance patch notes.
+*A streamlined platform for presenting game balance updates.*  
+- **Purpose**: Enhance user interface and reliability for balance patch notes.  
 - **Key Features**:  
-  - Stable static version available in the main branch.
-  - Transitioning to a Jekyll-based framework for improved usability and consistent visuals.
-- **Learning Outcome**: Deepened my expertise in static site generators and streamlined web development.
+  - A stable static version is available in the main branch.  
+  - Transitioning to a Jekyll-based framework for improved usability and visual consistency.  
+- **Learning Outcome**: Gained deeper expertise in static site generators while refining my approach to web development.
 
 ### [Unit Calculator](https://github.com/MrRowey/UnitCalculator)
-*A lightweight tool for analyzing game balance changes with precision.*  
+*A lightweight application for precise analysis of game balance changes.*  
 - **Highlights**:  
-  - Accurately calculates percentage changes and ratios.
-  - Intuitive design optimized for both developers and players.
-- **Learning Outcome**: Enhanced my skills in algorithm development and user-centric interface design.
+  - Capable of accurately calculating percentage changes and ratios.  
+  - Features an intuitive design optimized for both developers and gamers.  
+- **Learning Outcome**: Strengthened skills in algorithm development and user-centered interface design.
 
 ---
+
 ## 🖥️ Home Projects
 
-### Compact Proxmox Setup
-- Set up a Proxmox box on a small thin and light computer.
+### Compact Proxmox Configuration
+- Installed and optimized a Proxmox setup on a lightweight, compact computer.
 
-### Customized Local URLs with Nginx Proxy Manager
-- Configured Nginx Proxy Manager on Proxmox to create custom local URLs.
+### Tailored Local URLs with Nginx Proxy Manager
+- Configured Nginx Proxy Manager within Proxmox to create personalized local URLs.
 
-### Smart DNS Management with Pi-hole
-- Implemented DNS management with Pi-hole to handle IP assignments and block unwanted traffic.
+### Intelligent DNS Management with Pi-hole
+- Leveraged Pi-hole for DNS management, efficiently assigning IPs and blocking unwanted traffic.
 
---
+---
 
 ## 🌱 Tech I'm Learning
-I'm continually expanding my skills in both front-end and back-end development to build efficient, user-friendly solutions. Currently, I'm focusing on:
+I am committed to expanding my expertise in both front-end and back-end development, creating solutions that prioritize efficiency and user-friendliness. Currently, I am honing my skills in:
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40" />&nbsp;
@@ -51,16 +52,16 @@ I'm continually expanding my skills in both front-end and back-end development t
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40" />
 </div>
 
-*By mastering these tools, I strive to bridge the gap between innovative technology and real-world applications in education.*
+*Through mastering these tools, I aim to bridge the gap between cutting-edge technology and practical applications, particularly in education.*
 
 ---
 
 ## 🎉 Fun Facts
-- When I'm not solving tech puzzles, I'm fully engaged in fatherhood as a proud dad and stepdad to two amazing boys.
-- I love gaming, exploring the outdoors, and diving into new tools and techniques to fuel my passion for lifelong learning.
+- Outside of solving tech challenges, I take immense pride in fatherhood, enjoying life as a dad and stepdad to two incredible boys.
+- My hobbies include gaming, exploring nature, and experimenting with new tools and technologies to fuel my passion for lifelong learning.
 
 ---
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/josh-row-938394255/)  
-*I'm always open for a chat about tech, education, or exchanging innovative ideas. Don't hesitate to reach out!*
+*I’m always eager to discuss technology, and education, or exchange innovative ideas. Feel free to reach out!*
