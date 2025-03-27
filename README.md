@@ -27,9 +27,13 @@ I'm a **Primary School ICT Technician** with 4 years of experience, dedicated to
 ---
 ## 🖥️ Home Projects
 
-### Running a Proxmox Machine
+### Compact Proxmox Setup
 - Set up a Proxmox box on a small thin and light computer.
+
+### Customized Local URLs with Nginx Proxy Manager
 - Configured Nginx Proxy Manager on Proxmox to create custom local URLs.
+
+### Smart DNS Management with Pi-hole
 - Implemented DNS management with Pi-hole to handle IP assignments and block unwanted traffic.
 
 --
