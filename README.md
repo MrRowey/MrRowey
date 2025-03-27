@@ -7,7 +7,7 @@ I'm a **Primary School ICT Technician** with 4 years of experience, dedicated to
 
 ---
 
-## 🖥️ My Projects
+## 🖥️ GIThub Projects
 
 ### [Patchnotes Site](https://github.com/MrRowey/FAF-Patchnotes-Site?form=MG0AV3)
 *A sleek, efficient tool for presenting game balance updates.*  
@@ -25,6 +25,14 @@ I'm a **Primary School ICT Technician** with 4 years of experience, dedicated to
 - **Learning Outcome**: Enhanced my skills in algorithm development and user-centric interface design.
 
 ---
+## 🖥️ Home Projects
+
+### Running a Proxmox Machine
+- Set up a Proxmox box on a small thin and light computer.
+- Configured Nginx Proxy Manager on Proxmox to create custom local URLs.
+- Implemented DNS management with Pi-hole to handle IP assignments and block unwanted traffic.
+
+--
 
 ## 🌱 Tech I'm Learning
 I'm continually expanding my skills in both front-end and back-end development to build efficient, user-friendly solutions. Currently, I'm focusing on:
