@@ -32,8 +32,6 @@ In my role as an **ICT Cluster Technician**, I collaborate with multiple primary
 
 ## 🖥️ Home Projects
 
-## 🖥️ Home Projects
-
 ### Compact Proxmox Configuration  
 *A lightweight and efficient virtualization solution for home use.*  
 - **Purpose**: Create a versatile environment for managing virtual machines.  
