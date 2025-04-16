@@ -28,7 +28,7 @@ In my role as an **ICT Cluster Technician**, I collaborate with multiple primary
 - **Impact**: Improved efficiency in analyzing and balancing game mechanics.  
 - **Learning Outcome**: Strengthened algorithm development skills and user-centered interface design.
 
-### [FAF News Publisher (WPF App)](https://github.com/MrRowey/FAF-News-Publisher)
+### [FAF News Publisher WPF](https://github.com/MrRowey/FAF-News-Publisher-WPF)
 *A desktop application for creating and publishing news posts to the FAForever community.*  
 - **Purpose**: Simplify the workflow for writing, formatting, and exporting news articles for FAForever.  
 - **Key Features**:  
