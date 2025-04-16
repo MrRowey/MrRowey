@@ -3,128 +3,136 @@
 ---
 
 ## 👨‍💻 About Me
-I’m a **Primary School ICT Technician** with over four years of experience, passionate about leveraging technology to enhance learning and empower educators. I hold a **BSc in Computing and Information Technology** from the [University of Derby](https://www.derby.ac.uk/?form=MG0AV3), where I refined my problem-solving and technical expertise.
 
-In my role as an **ICT Cluster Technician**, I collaborate with multiple primary schools to optimize their technological ecosystems, solving complex IT challenges to support students and teachers. Additionally, I actively contribute to the open-source project [FAForever](https://github.com/FAForever?form=MG0AV3), engaging with a global community to improve gaming experiences. My passion lies in delivering creative solutions and driving innovation in both education and gaming.
+I’m a **Primary School ICT Technician** with over **seven years of hands-on technical experience**, passionate about using technology to enrich education and empower students and teachers. I hold a **BSc in Computing and Information Technology** from the [University of Derby](https://www.derby.ac.uk/?form=MG0AV3), where I developed a strong foundation in problem-solving, systems management, and IT innovation.
 
----
+In my current role as an **ICT Cluster Technician**, I work across multiple primary schools, maintaining and improving their IT ecosystems. Whether it's troubleshooting classroom tech, streamlining systems, or introducing new tools, I take pride in making technology reliable, efficient, and easy to use.
 
-## 🖥️ GitHub Projects
+Beyond education, I actively contribute to the open-source gaming project [FAForever](https://github.com/FAForever?form=MG0AV3), collaborating with a global community to enhance the player experience. This has sharpened my skills in development, user experience, and community engagement.
 
-### [Patchnotes Site](https://github.com/MrRowey/FAF-Patchnotes-Site?form=MG0AV3)
-*A modern platform for presenting game balance updates.*  
-- **Purpose**: Enhance user experience and reliability for game balance patch notes.  
-- **Key Features**:  
-  - A stable static version available in the main branch.  
-  - Transitioning to a Jekyll-based framework for a consistent and polished UI.  
-- **Impact**: Streamlined communication of updates to the gaming community, improving accessibility.  
-- **Learning Outcome**: Expanded proficiency in static site generators and improved my web development workflow.
+Outside of work, I’m a proud dad and stepdad to two amazing boys. I love spending time outdoors with them, from nature walks to spontaneous adventures. My fiancée and I enjoy weekend getaways and relaxing nights out at the cinema—it's all about making memories and keeping life balanced.  
 
-### [Unit Calculator](https://github.com/MrRowey/UnitCalculator)
-*A lightweight tool for precise analysis of game balance changes.*  
-- **Highlights**:  
-  - Calculates percentage changes and ratios with ease.  
-  - Optimized for developers and players through intuitive design.  
-- **Impact**: Improved efficiency in analyzing and balancing game mechanics.  
-- **Learning Outcome**: Strengthened algorithm development skills and user-centered interface design.
-
-### [FAF News Publisher WPF](https://github.com/MrRowey/FAF-News-Publisher-WPF)
-*A desktop application for creating and publishing news posts to the FAForever community.*  
-- **Purpose**: Simplify the workflow for writing, formatting, and exporting news articles for FAForever.  
-- **Key Features**:  
-  - Built using **WPF** and **C#** for a clean, responsive user interface.  
-  - Supports rich-text formatting, image embedding, and Markdown export.  
-  - Integrated preview feature for reviewing articles before publication.  
-- **Impact**: Enhanced efficiency and consistency for FAForever news editors, improving communication with the player community.  
-- **Learning Outcome**: Advanced my skills in **WPF application development**, user interface design, and content management tooling.
+Whether it’s supporting teachers in the classroom, building home tech projects, or crafting better gaming tools, I’m always exploring new ways to use technology creatively and meaningfully.
 
 ---
 
-## 🖥️ Home Projects
+## 🧰 Tech Stack & Tools
 
-### Compact Proxmox Configuration
-*A lightweight and efficient virtualization solution for home use.*  
-- **Purpose**: Create a versatile environment for managing virtual machines.  
-- **Key Features**:  
-  - Installed Proxmox on a compact, lightweight computer.  
-  - Enhanced performance on resource-limited hardware.  
-- **Impact**: Simplified home virtualization and experimentation.  
-- **Learning Outcome**: Increased expertise in virtualization and system optimization.
-
-### Personalized Local URLs with Nginx Proxy Manager
-*A custom solution for organizing and accessing local services seamlessly.*  
-- **Purpose**: Simplify access to local services through tailored URLs.  
-- **Key Features**:  
-  - Configured Nginx Proxy Manager within Proxmox.  
-  - Streamlined local service access with personalized URLs.  
-- **Learning Outcome**: Deepened knowledge of reverse proxy configurations and network management.
-
-### Intelligent DNS Management with Pi-hole
-*A smart approach to DNS and network traffic optimization.*  
-- **Purpose**: Manage DNS settings and block unwanted traffic effectively.  
-- **Key Features**:  
-  - Deployed Pi-hole for efficient DNS management.  
-  - Enhanced network security through traffic blocking.  
-- **Learning Outcome**: Improved skills in network security and optimization.
-
-### TrueNAS Core Server Setup
-*A powerful, custom-built storage solution for home use.*  
-- **Purpose**: Provide efficient and reliable data storage.  
-- **Key Features**:  
-  - Configured a high-performance TrueNAS Core server.  
-  - Advanced storage capabilities tailored to home needs.  
-- **Learning Outcome**: Acquired a comprehensive understanding of storage management.
-
-### Home Photo & Video Server Setup
-*A centralized solution for storing and managing personal media.*  
-- **Purpose**: Organize and preserve photos and videos with easy access across devices.  
-- **Key Features**:  
-  - Configured a home media server using TrueNAS Core for reliable storage.  
-  - Integrated server access with multiple platforms, ensuring secure and efficient management.  
-  - Enabled features like photo and video indexing for quick retrieval.  
-- **Impact**: Simplified media organization and ensured long-term preservation of memories.  
-- **Learning Outcome**: Enhanced skills in media server deployment, platform integration, and media management.
-
-### Plex Media Server Integration
-*A seamless media streaming experience powered by TrueNAS Core.*  
-- **Purpose**: Centralize and enhance media access across devices.  
-- **Key Features**:  
-  - Integrated Plex Media Server with TrueNAS Core.  
-  - Enabled smooth media streaming across multiple platforms.  
-- **Learning Outcome**: Advanced skills in deploying and managing media servers.
-
-### Windows File Server Deployment
-*A secure file-sharing solution for home networks.*  
-- **Purpose**: Facilitate organized and secure file sharing.  
-- **Key Features**:  
-  - Deployed a Windows File Server integrated with TrueNAS.  
-  - Configured for efficient and secure file access.  
-- **Learning Outcome**: Gained expertise in file sharing and network integration.
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-000080?style=flat-square&logo=lua&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🌱 Tech I'm Learning
-I’m continuously building my expertise in both front-end and back-end development to deliver user-friendly solutions. Currently, I’m focused on:
+## 🚀 Featured Projects
 
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua" alt="Lua" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40" />
-</div>
+### 🎯 [FAF Patchnotes Site](https://github.com/MrRowey/FAF-Patchnotes-Site?form=MG0AV3)  
+A clean, modern platform to present game balance updates for the FAForever community.
 
-I aim to bridge the gap between emerging technologies and practical applications in education and gaming, with a current focus on using **Lua** to explore game mechanics and improve design.
+- 🧩 Static version live and stable  
+- 🎨 Currently transitioning to a Jekyll-based UI  
+- 📈 Enhances communication and accessibility for patch notes
+
+![Project Language](https://img.shields.io/github/languages/top/MrRowey/FAF-Patchnotes-Site?style=flat-square)
 
 ---
 
-## 🎉 Fun Facts
-When I’m not solving tech puzzles, I’m a proud dad and stepdad to two amazing boys. I indulge in gaming, often aligning with my contributions to FAForever, which inspire creativity and collaboration. Exploring nature recharges my energy, and diving into new tools fuels my passion for lifelong learning.
+### 📰 [FAF News Publisher (WPF)](https://github.com/MrRowey/FAF-News-Publisher-WPF)  
+A Windows desktop app for composing and publishing formatted news articles to FAForever.
+
+- 🛠 Built with **WPF** and **C#**  
+- 📝 Markdown export, image embedding, preview mode  
+- 🚀 Speeds up and standardises content creation
+
+![Project Language](https://img.shields.io/github/languages/top/MrRowey/FAF-News-Publisher-WPF?style=flat-square)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrRowey&show_icons=true&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRowey&layout=compact&theme=react&hide_border=true" />
+</p>
+
+---
+
+## 🏠 Home Projects
+
+### 🔧 [Compact Proxmox Configuration](#)  
+A lightweight and efficient virtualisation solution for home use.  
+- 🖥️ Installed Proxmox on a compact, low-resource system  
+- 🚀 Optimised for performance on limited hardware  
+- 📚 Simplified home virtualisation and experimentation
+
+![Tech Badge](https://img.shields.io/badge/Tech-Proxmox-00C0A0?style=flat-square)
+
+---
+
+### 🌐 [Personalised Local URLs with Nginx Proxy Manager](#)  
+A custom solution for streamlining access to local services.  
+- 🛠 Configured Nginx Proxy Manager on Proxmox  
+- 🔗 Created easy-to-remember, custom URLs for home services  
+- 🖧 Streamlined local network management
+
+![Tech Badge](https://img.shields.io/badge/Tech-Nginx-009639?style=flat-square)
+
+---
+
+### 🔒 [Intelligent DNS Management with Pi-hole](#)  
+A smart approach to DNS and network traffic optimisation.  
+- 🔧 Deployed Pi-hole for DNS management and ad blocking  
+- 🛡 Enhanced network security by blocking unwanted traffic  
+- ⚡ Increased browsing speed and privacy
+
+![Tech Badge](https://img.shields.io/badge/Tech-Pi--hole-000000?style=flat-square)
+
+---
+
+### 💾 [TrueNAS Core Server Setup](#)  
+A powerful custom-built storage solution for home use.  
+- 🗄 Configured TrueNAS Core for efficient, reliable data storage  
+- 💾 Customised for high-performance home use  
+- 🔐 Advanced storage capabilities, ensuring data reliability
+
+![Tech Badge](https://img.shields.io/badge/Tech-TrueNAS-000000?style=flat-square)
+
+---
+
+### 🖼️ [Home Photo & Video Server Setup](#)  
+A centralised solution for storing and managing personal media.  
+- 🗂 Integrated media server with multiple platform access  
+- 🔍 Added photo and video indexing for easy retrieval  
+- 🛠 Reliable media management across devices
+
+![Tech Badge](https://img.shields.io/badge/Tech-Media--Server-FF7F00?style=flat-square)
+
+---
+
+### 🎬 [Plex Media Server Integration](#)  
+A seamless media streaming experience powered by TrueNAS.  
+- 🎥 Integrated Plex Media Server for smooth streaming  
+- 📱 Supports media access across multiple devices  
+- 🔒 Ensures secure, high-quality streaming
+
+![Tech Badge](https://img.shields.io/badge/Tech-Plex-000000?style=flat-square)
+
+---
+
+### 🖥️ [Windows File Server Deployment](#)  
+A secure and organised file-sharing solution for home networks.  
+- 🔄 Deployed Windows File Server for secure access  
+- 🗃 Efficiently organised files and folders for home use  
+- 🛡 Enhanced data security and user access controls
+
+![Tech Badge](https://img.shields.io/badge/Tech-Windows--Server-0078D4?style=flat-square)
 
 ---
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/josh-row-938394255/)  
-I’d love to explore ideas, solve challenging tech problems, or discuss innovative solutions. Feel free to reach out anytime!
+- 🎮 [FAForever Profile](https://github.com/FAForever?form=MG0AV3)  
+- ✉️ Feel free to reach out if you want to collaborate or just chat tech!
