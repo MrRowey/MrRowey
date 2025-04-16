@@ -18,9 +18,9 @@ In my role as an **ICT Cluster Technician**, I collaborate with multiple primary
   - A stable static version available in the main branch.  
   - Transitioning to a Jekyll-based framework for a consistent and polished UI.  
 - **Impact**: Streamlined communication of updates to the gaming community, improving accessibility.  
-- **Learning Outcome**: Expanded proficiency in static site generators and improved my web development workflow.  
+- **Learning Outcome**: Expanded proficiency in static site generators and improved my web development workflow.
 
-### [Unit Calculator](https://github.com/MrRowey/UnitCalculator)  
+### [Unit Calculator](https://github.com/MrRowey/UnitCalculator)
 *A lightweight tool for precise analysis of game balance changes.*  
 - **Highlights**:  
   - Calculates percentage changes and ratios with ease.  
@@ -28,11 +28,21 @@ In my role as an **ICT Cluster Technician**, I collaborate with multiple primary
 - **Impact**: Improved efficiency in analyzing and balancing game mechanics.  
 - **Learning Outcome**: Strengthened algorithm development skills and user-centered interface design.
 
+### [FAF News Publisher (WPF App)](https://github.com/MrRowey/FAF-News-Publisher)
+*A desktop application for creating and publishing news posts to the FAForever community.*  
+- **Purpose**: Simplify the workflow for writing, formatting, and exporting news articles for FAForever.  
+- **Key Features**:  
+  - Built using **WPF** and **C#** for a clean, responsive user interface.  
+  - Supports rich-text formatting, image embedding, and Markdown export.  
+  - Integrated preview feature for reviewing articles before publication.  
+- **Impact**: Enhanced efficiency and consistency for FAForever news editors, improving communication with the player community.  
+- **Learning Outcome**: Advanced my skills in **WPF application development**, user interface design, and content management tooling.
+
 ---
 
 ## 🖥️ Home Projects
 
-### Compact Proxmox Configuration  
+### Compact Proxmox Configuration
 *A lightweight and efficient virtualization solution for home use.*  
 - **Purpose**: Create a versatile environment for managing virtual machines.  
 - **Key Features**:  
@@ -41,7 +51,7 @@ In my role as an **ICT Cluster Technician**, I collaborate with multiple primary
 - **Impact**: Simplified home virtualization and experimentation.  
 - **Learning Outcome**: Increased expertise in virtualization and system optimization.
 
-### Personalized Local URLs with Nginx Proxy Manager  
+### Personalized Local URLs with Nginx Proxy Manager
 *A custom solution for organizing and accessing local services seamlessly.*  
 - **Purpose**: Simplify access to local services through tailored URLs.  
 - **Key Features**:  
@@ -49,7 +59,7 @@ In my role as an **ICT Cluster Technician**, I collaborate with multiple primary
   - Streamlined local service access with personalized URLs.  
 - **Learning Outcome**: Deepened knowledge of reverse proxy configurations and network management.
 
-### Intelligent DNS Management with Pi-hole  
+### Intelligent DNS Management with Pi-hole
 *A smart approach to DNS and network traffic optimization.*  
 - **Purpose**: Manage DNS settings and block unwanted traffic effectively.  
 - **Key Features**:  
@@ -57,7 +67,7 @@ In my role as an **ICT Cluster Technician**, I collaborate with multiple primary
   - Enhanced network security through traffic blocking.  
 - **Learning Outcome**: Improved skills in network security and optimization.
 
-### TrueNAS Core Server Setup  
+### TrueNAS Core Server Setup
 *A powerful, custom-built storage solution for home use.*  
 - **Purpose**: Provide efficient and reliable data storage.  
 - **Key Features**:  
@@ -65,7 +75,7 @@ In my role as an **ICT Cluster Technician**, I collaborate with multiple primary
   - Advanced storage capabilities tailored to home needs.  
 - **Learning Outcome**: Acquired a comprehensive understanding of storage management.
 
-### Home Photo & Video Server Setup  
+### Home Photo & Video Server Setup
 *A centralized solution for storing and managing personal media.*  
 - **Purpose**: Organize and preserve photos and videos with easy access across devices.  
 - **Key Features**:  
@@ -75,7 +85,7 @@ In my role as an **ICT Cluster Technician**, I collaborate with multiple primary
 - **Impact**: Simplified media organization and ensured long-term preservation of memories.  
 - **Learning Outcome**: Enhanced skills in media server deployment, platform integration, and media management.
 
-### Plex Media Server Integration  
+### Plex Media Server Integration
 *A seamless media streaming experience powered by TrueNAS Core.*  
 - **Purpose**: Centralize and enhance media access across devices.  
 - **Key Features**:  
@@ -83,7 +93,7 @@ In my role as an **ICT Cluster Technician**, I collaborate with multiple primary
   - Enabled smooth media streaming across multiple platforms.  
 - **Learning Outcome**: Advanced skills in deploying and managing media servers.
 
-### Windows File Server Deployment  
+### Windows File Server Deployment
 *A secure file-sharing solution for home networks.*  
 - **Purpose**: Facilitate organized and secure file sharing.  
 - **Key Features**:  
@@ -94,7 +104,8 @@ In my role as an **ICT Cluster Technician**, I collaborate with multiple primary
 ---
 
 ## 🌱 Tech I'm Learning
-I’m continuously building my expertise in both front-end and back-end development to deliver user-friendly solutions. Currently, I’m focused on:  
+I’m continuously building my expertise in both front-end and back-end development to deliver user-friendly solutions. Currently, I’m focused on:
+
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
