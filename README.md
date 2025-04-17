@@ -41,13 +41,15 @@ A clean, modern platform to present game balance updates for the FAForever commu
 ---
 
 ### 📰 [FAF News Publisher (WPF)](https://github.com/MrRowey/FAF-News-Publisher-WPF)  
-A Windows desktop app for composing and publishing formatted news articles to FAForever.
+A Windows desktop app initially developed to solve a business workflow challenge for the Forever news team.
 
-- 🛠 Built with **WPF** and **C#**  
-- 📝 Markdown export
-- 🚀 Speeds up and standardises content creation
+- 🛠 Built with **WPF** and **C#** for a responsive and user-friendly experience  
+- 📝 Features included Markdown export
+- 🔍 Originally designed to streamline content creation, but the requirement was later met through a different approach  
+- 💡 Valuable learning project for improving WPF application structure and UX design
 
 ![Project Language](https://img.shields.io/github/languages/top/MrRowey/FAF-News-Publisher-WPF?style=flat-square)
+
 
 ---
 
