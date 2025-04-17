@@ -44,7 +44,7 @@ A clean, modern platform to present game balance updates for the FAForever commu
 A Windows desktop app for composing and publishing formatted news articles to FAForever.
 
 - 🛠 Built with **WPF** and **C#**  
-- 📝 Markdown export, image embedding, preview mode  
+- 📝 Markdown export
 - 🚀 Speeds up and standardises content creation
 
 ![Project Language](https://img.shields.io/github/languages/top/MrRowey/FAF-News-Publisher-WPF?style=flat-square)
