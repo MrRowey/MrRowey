@@ -20,13 +20,6 @@ Slowly working towards my **Cisco Certified Support Technician (CCST) in Network
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrRowey&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRowey&layout=compact&theme=radical&hide_border=true)
-
----
-
 ## 🧰 Tech Stack
 
 ### Languages
