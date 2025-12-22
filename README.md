@@ -14,7 +14,8 @@ When I'm not working, I'm a proud dad and stepdad who loves spending time outdoo
 
 ## 📚 Currently Learning
 
-![Cisco](https://img.shields.io/badge/-Cisco%20CCST%20Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+[![Cisco](https://img.shields.io/badge/-Cisco%20CCST%20Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/b768f2f8-8566-419b-a064-f161e6d79817/public_url)
+
 
 Slowly working towards my **Cisco Certified Support Technician (CCST) in Networking** certification, fitting in study sessions between juggling dad life and work commitments. Currently at the challenging stage that requires deeper thinking and focus on complex networking concepts.
 
