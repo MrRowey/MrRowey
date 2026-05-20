@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Service Desk Engineer** at **Neat**, supporting modern workplace collaboration technology and helping customers get the best experience from their devices and solutions. With **8 years of IT experience** across support, infrastructure, and end-user technology, I’m passionate about solving technical challenges, improving systems, and delivering great support experiences.
+I'm a **Service Desk Engineer** at **Neat**, supporting modern workplace collaboration technology and helping customers get the best experience from their devices and solutions. With **10 years of IT experience** across support, infrastructure, and end-user technology, I’m passionate about solving technical challenges, improving systems, and delivering great support experiences.
 
 I hold a **BSc in Computing & IT** from the University of Derby and completed the **Cisco Introduction to Cybersecurity** certification.
 
